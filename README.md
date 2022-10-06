@@ -1,4 +1,4 @@
-                                                                    <b>  Hi I am Ahmed  👋  </b>
+                                                                     Hi I am Ahmed  👋  
 
 A passionate Web App Developer 
 
