@@ -1,9 +1,6 @@
-### Hi I am Ahmed  👋
+                                                                    <h1>  Hi I am Ahmed  👋  </h1>
 
-<!--
-**ahmed-bhatti/ahmed-bhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+A passionate Web App Developer 
 
 - 🔭 I’m currently working on Ledger Sytem
 - 🌱 I’m currently learning React Js,Advance Javascript
@@ -13,6 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ahmedalirajpootbhatti@gmail.com
 - 😄 Pronouns: jokes
 - ⚡ Fun fact: coffe<3
--->
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmed-bhatti&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
